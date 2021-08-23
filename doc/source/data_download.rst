@@ -36,7 +36,9 @@ NOAA GOES on Amazon Web Services
 * `Data Browser <http://noaa-goes16.s3.amazonaws.com/index.html>`__
 * Associated Readers: ``abi_l1b``
 
-In addition ot the pages above, Brian Blaylock has prepared some instructions
+In addition to the pages above, Brian Blaylock's `GOES-2-Go <https://github.com/blaylockbk/goes2go>`_ 
+python package may be usedy to download GOES data to your local computer from AWS.
+Brian has also prepared some instructions
 for using the ``rclone`` tool for downloading AWS data to a local machine. The
 instructions can be found
 `here <https://github.com/blaylockbk/pyBKB_v3/blob/master/rclone_howto.md>`_.
